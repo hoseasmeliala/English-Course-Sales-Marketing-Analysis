@@ -4,19 +4,36 @@
 
 **An End-to-End Data Analytics Project using Microsoft Excel**
 
-This project analyzes the sales and marketing performance of an English course institution throughout 2025 using Microsoft Excel.
+This project analyzes the sales and marketing performance of **MR.BOB Kampung Inggris Pare** throughout 2025 using Microsoft Excel.
 
-The analysis covers the complete data analytics workflow, including data cleaning, exploratory data analysis (EDA), dashboard development, business insight generation, and actionable recommendations to support data-driven decision-making.
+The project demonstrates an end-to-end data analytics workflow, including data cleaning, exploratory data analysis (EDA), interactive dashboard development, business insight generation, and actionable business recommendations to support data-driven decision-making.
+
+---
+
+# 📑 Table of Contents
+
+- [📌 Project Overview](#-project-overview)
+- [🎯 Business Problem](#-business-problem)
+- [🎯 Business Objective](#-business-objective)
+- [📂 Dataset Information](#-dataset-information)
+- [🔍 Scope of Analysis](#-scope-of-analysis)
+- [🛠 Tools & Techniques](#-tools--techniques)
+- [🔄 Project Workflow](#-project-workflow)
+- [📊 Dashboard Preview](#-dashboard-preview)
+- [📌 Key Findings](#-key-findings)
+- [📈 Business Insights](#-business-insights)
+- [💡 Business Recommendations](#-business-recommendations)
+- [📁 Repository Structure](#-repository-structure)
+- [🚀 Future Improvements](#-future-improvements)
+- [👤 About the Author](#-about-the-author)
 
 ---
 
 # 📌 Project Overview
 
-This project analyzes the sales and marketing performance of MR.BOB Kampung Inggris Pare during 2025 using Microsoft Excel.
+This project evaluates the sales and marketing performance of **MR.BOB Kampung Inggris Pare** throughout 2025.
 
-The analysis aims to evaluate overall business performance by examining sales transactions, product performance, marketing channels, payment methods, and time-based sales trends.
-
-The project follows an end-to-end data analytics workflow, including data cleaning, exploratory data analysis (EDA), dashboard development, business insight generation, and business recommendations to support data-driven decision-making.
+The analysis focuses on identifying sales trends, top-performing products, effective marketing channels, customer payment preferences, and seasonal sales patterns. The insights generated from this project are intended to support strategic business decisions related to marketing, product development, and operational planning.
 
 ---
 
@@ -56,41 +73,40 @@ Specifically, this project aims to:
 |------|-------------|
 | Industry | Education (English Course) |
 | Case Study | MR.BOB Kampung Inggris Pare |
-| Data Source | Dummy Dataset created for educational purposes using publicly available information |
+| Data Source | Dummy dataset created for educational purposes using publicly available information from the official website |
 | Analysis Period | January – December 2025 |
 | Total Transactions | 6,898 |
 | Total Variables | 6 |
 | File Format | Microsoft Excel (.xlsx) |
 
-### Dataset Variables
+## Dataset Variables
 
 | Variable | Description |
 |----------|-------------|
-| Transaction Date | Date of purchase |
-| Payment Method | Customer payment method |
-| Program | English learning program |
-| Duration | Program duration |
-| Lead Source | Marketing acquisition channel |
-| Revenue | Transaction value |
+| Transaction Date | Date of Purchase |
+| Payment Method | Customer Payment Method |
+| Program | English Learning Program |
+| Duration | Program Duration |
+| Lead Source | Marketing Acquisition Channel |
+| Revenue | Transaction Value |
 
 ---
 
 # 🔍 Scope of Analysis
 
-The analysis focuses on five key business areas:
+The analysis focuses on the following business areas:
 
 - 📈 Sales Performance Analysis
 - 📦 Product Performance Analysis
 - 📢 Marketing Performance Analysis
 - 💳 Payment Method Analysis
-- 📅 Time-based Sales Trend Analysis
-
+- 📅 Time-Based Sales Trend Analysis
 
 ---
 
 # 🛠 Tools & Techniques
 
-### Tools
+## Tools
 
 - Microsoft Excel
 - Power Query
@@ -99,7 +115,7 @@ The analysis focuses on five key business areas:
 - Slicer
 - Timeline
 
-### Analysis Techniques
+## Analysis Techniques
 
 - Data Cleaning
 - Data Transformation
@@ -108,12 +124,12 @@ The analysis focuses on five key business areas:
 - Product Performance Analysis
 - Marketing Performance Analysis
 - Payment Method Analysis
-- Time-based Sales Trend Analysis
+- Time-Based Sales Trend Analysis
 - Business Insight Development
 - Business Recommendation
 - Data Visualization
 
-### Excel Functions
+## Excel Functions
 
 - SUMIFS
 - COUNTIFS
@@ -122,7 +138,7 @@ The analysis focuses on five key business areas:
 - TEXT
 - MONTH
 - YEAR
-- Pivot Table Calculation
+- Pivot Table Calculated Fields
 - Conditional Formatting
 
 ---
@@ -152,7 +168,7 @@ Business Insight Generation
       │
       ▼
 Business Recommendations
-
+```
 
 ---
 
@@ -160,67 +176,115 @@ Business Recommendations
 
 The dashboard provides an interactive overview of sales and marketing performance throughout 2025.
 
-Users can explore the data using slicers and timelines to analyze performance across products, marketing channels, payment methods, and different time periods.
+Users can analyze business performance dynamically using slicers and timelines.
 
-### Dashboard
+## Dashboard
 
-![Dashboard](assets/dashboard/dashboard-overview.png)
-
+![Dashboard Overview](images/dashboard/dashboard-overview.png)
 
 ---
 
 # 📌 Key Findings
 
-- Total Revenue reached **Rp12.82 Billion** from **6,898 transactions**.
-- The **1 BULAN 5-UP** program generated the highest revenue.
+- Revenue reached **Rp12.82 Billion** from **6,898 transactions**.
+- **1 BULAN 5-UP** generated the highest revenue.
 - Programs with **1-month duration** contributed approximately **41%** of total revenue.
-- Instagram and Alumni contributed over **73%** of total revenue.
-- Internet Banking accounted for approximately **81%** of all payment transactions.
-- Quarter II delivered the strongest sales performance during 2025.
+- Instagram and Alumni generated over **73%** of total revenue.
+- Internet Banking represented approximately **81%** of all payment transactions.
+- Quarter II delivered the strongest sales performance.
 
 ---
 
 # 📈 Business Insights
 
-## 1. Sales Performance
+## 📈 Sales Performance
 
-Total revenue reached Rp12.82 billion from 6,898 transactions, with an average order value of approximately Rp1.86 million.
-
----
-
-## 2. Product Performance
-
-The 1 BULAN 5-UP program was the highest-performing product, contributing 15.78% of total revenue.
+The business generated **Rp12.82 Billion** in revenue from **6,898 transactions**, with an average order value of approximately **Rp1.86 Million**.
 
 ---
 
-## 3. Marketing Performance
+## 📦 Product Performance
 
-Instagram and Alumni generated over 73% of total revenue, indicating that digital marketing and referral channels are the primary customer acquisition sources.
-
----
-
-## 4. Payment Analysis
-
-Internet Banking accounted for approximately 81% of all transactions, showing a strong customer preference for digital payment methods.
+The **1 BULAN 5-UP** program became the primary revenue driver, contributing **15.78%** of total revenue.
 
 ---
 
-## 5. Time Analysis
+## 📢 Marketing Performance
 
-Sales peaked during Quarter II, particularly in June and July, suggesting strong seasonal demand.
+Instagram and Alumni generated more than **73%** of total revenue, highlighting the effectiveness of digital marketing and referral programs.
 
+---
+
+## 💳 Payment Method Analysis
+
+Internet Banking accounted for approximately **81%** of all transactions, indicating strong customer preference for digital payment methods.
+
+---
+
+## 📅 Time-Based Sales Analysis
+
+Sales peaked during **Quarter II**, especially in **June** and **July**, indicating seasonal demand.
 
 ---
 
 # 💡 Business Recommendations
 
-- Increase marketing investment in Instagram campaigns.
+- Increase investment in Instagram advertising campaigns.
 - Expand the Alumni referral program.
-- Prepare operational capacity before Quarter II.
-- Review and improve the performance of Non-Camp programs.
-- Continue optimizing digital payment options to enhance customer convenience.
+- Prepare operational resources before Quarter II.
+- Reevaluate Non-Camp programs through pricing and promotional strategies.
+- Continue improving digital payment options to enhance customer convenience.
 
+---
 
+# 📁 Repository Structure
 
+```text
+English-Course-Sales-Marketing-Analysis
+│
+├── README.md
+├── LICENSE
+│
+│
+├── images
+│   ├── dashboard-overview.png
+│   │   └── dashboard-overview.png
+│   └── eda-overview-png
+│
+├── dashboard
+│   └── English Course Sales & Marketing Analysis 2025.xlsx
+│
+├── dataset
+│   ├── raw_dataset.xlsx
+│   └── cleaned_dataset.xlsx
+│
+└── report
+    └── English Course Sales & Marketing Analysis 2025.pdf
+```
 
+---
+
+# 🚀 Possible Future Improvements
+
+Potential enhancements for future versions of this project include:
+
+- Developing an interactive dashboard using **Power BI**.
+- Performing customer segmentation analysis.
+- Building revenue forecasting models.
+- Creating KPI monitoring dashboards.
+- Implementing SQL-based data processing workflows.
+- others....
+---
+
+# 👤 About the Author
+
+## Hosea Meliala
+
+**Junior Data Analyst**
+
+Passionate about Data Analytics, Business Intelligence, Data Visualization, and Business Strategy. I enjoy transforming raw data into meaningful insights that support better business decision-making.
+
+### Connect with Me
+
+- GitHub: **https://github.com/hoseasmeliala**
+- LinkedIn: **https://linkedin.com/in/hoseasmeliala**
