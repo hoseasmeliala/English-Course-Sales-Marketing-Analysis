@@ -205,29 +205,28 @@ Business Recommendations
 
 # 📊 Dashboard Preview
 
-The dashboard provides an interactive overview of the company's sales and marketing performance throughout 2025.
+The interactive dashboard provides a comprehensive overview of **MR.BOB Kampung Inggris Pare's** sales and marketing performance throughout 2025.
 
-Users can dynamically explore the data using slicers and timelines.
+Built using Microsoft Excel, the dashboard enables users to monitor key business metrics and explore performance dynamically through interactive filters.
 
-## Dashboard Overview
+### Dashboard Features
+
+- 📈 Sales Performance
+- 📦 Product Performance
+- 📢 Marketing Performance
+- 💳 Payment Method Analysis
+- 📅 Time-Based Sales Trend Analysis
+- 🎛 Interactive Slicers & Timeline
+
+---
+
+## Interactive Dashboard
+
+The dashboard integrates multiple business perspectives into a single interactive view, allowing users to analyze sales performance by product, marketing channel, payment method, and time period.
+
+> **Click the image below to view it in full resolution.**
 
 ![Dashboard Overview](images/dashboard-overview.png)
-
-## Sales Performance
-
-![Sales Performance](images/sales-performance.png)
-
-## Product Performance
-
-![Product Performance](images/product-performance.png)
-
-## Marketing Performance
-
-![Marketing Performance](images/marketing-performance.png)
-
-## Payment Analysis
-
-![Payment Analysis](images/payment-analysis.png)
 
 ---
 
@@ -331,11 +330,8 @@ English-Course-Sales-Marketing-Analysis
 │   └── English Course Sales & Marketing Analysis 2025.pdf
 │
 └── images
-    ├── dashboard-overview.png
-    ├── sales-performance.png
-    ├── product-performance.png
-    ├── marketing-performance.png
-    └── payment-analysis.png
+    └── dashboard-overview.png
+
 ```
 
 ---
