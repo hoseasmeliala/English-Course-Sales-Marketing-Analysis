@@ -24,7 +24,7 @@ The project demonstrates an end-to-end data analytics workflow, including data c
 - [📈 Business Insights](#-business-insights)
 - [💡 Business Recommendations](#-business-recommendations)
 - [📁 Repository Structure](#-repository-structure)
-- [🚀 Future Improvements](#-future-improvements)
+- [🚀 Possible Future Improvements](#-possible-future-improvements)
 - [👤 About the Author](#-about-the-author)
 
 ---
@@ -180,7 +180,7 @@ Users can analyze business performance dynamically using slicers and timelines.
 
 ## Dashboard
 
-![Dashboard Overview](images/dashboard/dashboard-overview.png)
+![Dashboard Overview](images/dashboard-overview.png)
 
 ---
 
