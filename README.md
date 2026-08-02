@@ -326,9 +326,6 @@ English-Course-Sales-Marketing-Analysis
 │   ├── raw_dataset.xlsx
 │   └── cleaned_dataset.xlsx
 │
-├── report
-│   └── English Course Sales & Marketing Analysis 2025.pdf
-│
 └── images
     └── dashboard-overview.png
 
