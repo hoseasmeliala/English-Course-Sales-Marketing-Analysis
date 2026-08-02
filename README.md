@@ -326,8 +326,11 @@ English-Course-Sales-Marketing-Analysis
 │   ├── raw_dataset.xlsx
 │   └── cleaned_dataset.xlsx
 │
-└── images
-    └── dashboard-overview.png
+├── images
+│   └── dashboard-overview.png
+│
+└── report
+   └── eda-analysis-report.pdf
 
 ```
 
@@ -371,7 +374,7 @@ I enjoy transforming raw data into meaningful insights through structured analys
 ### Connect with Me
 
 - GitHub: https://github.com/hoseasmeliala
-- LinkedIn: https://linkedin.com/in/hoseasmeliala
+- LinkedIn: https://linkedin.com/in/hoseasm
 
 ---
 
