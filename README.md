@@ -4,9 +4,27 @@
 
 **An End-to-End Data Analytics Project using Microsoft Excel**
 
+---
+
+## 📖 Project Description
+
 This project analyzes the sales and marketing performance of **MR.BOB Kampung Inggris Pare** throughout 2025 using Microsoft Excel.
 
-The project demonstrates an end-to-end data analytics workflow, including data cleaning, exploratory data analysis (EDA), interactive dashboard development, business insight generation, and actionable business recommendations to support data-driven decision-making.
+The project demonstrates an **end-to-end data analytics workflow**, covering data preparation, exploratory data analysis (EDA), interactive dashboard development, business insight generation, and actionable business recommendations to support data-driven decision-making.
+
+---
+
+# 🚀 Project Highlights
+
+- 📈 **Rp12.82 Billion** Total Revenue
+- 🧾 **6,898 Transactions**
+- 📅 **12-Month Sales Analysis**
+- 📊 Interactive Excel Dashboard
+- 📦 Product Performance Analysis
+- 📢 Marketing Performance Analysis
+- 💳 Payment Method Analysis
+- 📅 Time-Based Sales Trend Analysis
+- 💡 Business Insights & Recommendations
 
 ---
 
@@ -23,6 +41,7 @@ The project demonstrates an end-to-end data analytics workflow, including data c
 - [📌 Key Findings](#-key-findings)
 - [📈 Business Insights](#-business-insights)
 - [💡 Business Recommendations](#-business-recommendations)
+- [🎯 Project Outcomes](#-project-outcomes)
 - [📁 Repository Structure](#-repository-structure)
 - [🚀 Possible Future Improvements](#-possible-future-improvements)
 - [👤 About the Author](#-about-the-author)
@@ -31,23 +50,23 @@ The project demonstrates an end-to-end data analytics workflow, including data c
 
 # 📌 Project Overview
 
-This project evaluates the sales and marketing performance of **MR.BOB Kampung Inggris Pare** throughout 2025.
+This project evaluates the sales and marketing performance of **MR.BOB Kampung Inggris Pare** throughout 2025 using Microsoft Excel.
 
-The analysis focuses on identifying sales trends, top-performing products, effective marketing channels, customer payment preferences, and seasonal sales patterns. The insights generated from this project are intended to support strategic business decisions related to marketing, product development, and operational planning.
+The analysis focuses on identifying sales trends, best-performing products, effective marketing channels, customer payment preferences, and seasonal sales patterns. The resulting insights are intended to support strategic business decisions related to marketing, product development, and operational planning.
 
 ---
 
 # 🎯 Business Problem
 
-MR.BOB offers various English learning programs with different durations, pricing, marketing channels, and payment methods. However, management requires a comprehensive analysis to better understand business performance and identify opportunities for growth.
+MR.BOB offers multiple English learning programs with different durations, pricing structures, marketing channels, and payment methods. However, management requires a comprehensive analysis to better understand business performance and identify opportunities for sustainable growth.
 
-This project aims to answer the following business questions:
+This project answers the following business questions:
 
 - Which programs generate the highest sales and revenue?
-- Which program durations contribute the most to overall performance?
+- Which program durations contribute the most to business performance?
 - Which marketing channels acquire the most customers?
 - Which payment methods are preferred by customers?
-- How do sales perform across months and quarters?
+- How do sales perform across different months and quarters?
 - Which products should be maintained, improved, or reevaluated?
 
 ---
@@ -63,7 +82,8 @@ Specifically, this project aims to:
 - Measure the effectiveness of marketing channels.
 - Analyze customer payment preferences.
 - Identify monthly and quarterly sales trends.
-- Generate business insights and actionable recommendations.
+- Generate business insights.
+- Provide actionable business recommendations.
 
 ---
 
@@ -78,6 +98,14 @@ Specifically, this project aims to:
 | Total Transactions | 6,898 |
 | Total Variables | 6 |
 | File Format | Microsoft Excel (.xlsx) |
+
+## Dataset Characteristics
+
+- Structured Dataset
+- Transactional Dataset
+- Sales Dataset
+- Marketing Dataset
+- Time-Series Dataset
 
 ## Dataset Variables
 
@@ -94,7 +122,7 @@ Specifically, this project aims to:
 
 # 🔍 Scope of Analysis
 
-The analysis focuses on the following business areas:
+The project focuses on five key business areas:
 
 - 📈 Sales Performance Analysis
 - 📦 Product Performance Analysis
@@ -106,28 +134,17 @@ The analysis focuses on the following business areas:
 
 # 🛠 Tools & Techniques
 
-## Tools
+## Software
 
 - Microsoft Excel
-- Power Query
+
+## Excel Features
+
 - Pivot Table
 - Pivot Chart
 - Slicer
 - Timeline
-
-## Analysis Techniques
-
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis (EDA)
-- Sales Performance Analysis
-- Product Performance Analysis
-- Marketing Performance Analysis
-- Payment Method Analysis
-- Time-Based Sales Trend Analysis
-- Business Insight Development
-- Business Recommendation
-- Data Visualization
+- Conditional Formatting
 
 ## Excel Functions
 
@@ -139,7 +156,21 @@ The analysis focuses on the following business areas:
 - MONTH
 - YEAR
 - Pivot Table Calculated Fields
-- Conditional Formatting
+
+## Analytical Techniques
+
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis (EDA)
+- Sales Performance Analysis
+- Product Performance Analysis
+- Marketing Performance Analysis
+- Payment Method Analysis
+- Time-Based Sales Trend Analysis
+- KPI Analysis
+- Business Insight Development
+- Business Recommendation
+- Data Visualization
 
 ---
 
@@ -174,24 +205,43 @@ Business Recommendations
 
 # 📊 Dashboard Preview
 
-The dashboard provides an interactive overview of sales and marketing performance throughout 2025.
+The dashboard provides an interactive overview of the company's sales and marketing performance throughout 2025.
 
-Users can analyze business performance dynamically using slicers and timelines.
+Users can dynamically explore the data using slicers and timelines.
 
-## Dashboard
+## Dashboard Overview
 
 ![Dashboard Overview](images/dashboard-overview.png)
+
+## Sales Performance
+
+![Sales Performance](images/sales-performance.png)
+
+## Product Performance
+
+![Product Performance](images/product-performance.png)
+
+## Marketing Performance
+
+![Marketing Performance](images/marketing-performance.png)
+
+## Payment Analysis
+
+![Payment Analysis](images/payment-analysis.png)
 
 ---
 
 # 📌 Key Findings
 
-- Revenue reached **Rp12.82 Billion** from **6,898 transactions**.
-- **1 BULAN 5-UP** generated the highest revenue.
-- Programs with **1-month duration** contributed approximately **41%** of total revenue.
-- Instagram and Alumni generated over **73%** of total revenue.
-- Internet Banking represented approximately **81%** of all payment transactions.
-- Quarter II delivered the strongest sales performance.
+| KPI | Result |
+|------|---------|
+| Total Revenue | **Rp12.82 Billion** |
+| Total Transactions | **6,898** |
+| Average Order Value | **Rp1.86 Million** |
+| Best Selling Program | **1 BULAN 5-UP** |
+| Best Marketing Channel | **Instagram** |
+| Most Preferred Payment Method | **Internet Banking** |
+| Best Performing Quarter | **Quarter II** |
 
 ---
 
@@ -199,41 +249,66 @@ Users can analyze business performance dynamically using slicers and timelines.
 
 ## 📈 Sales Performance
 
-The business generated **Rp12.82 Billion** in revenue from **6,898 transactions**, with an average order value of approximately **Rp1.86 Million**.
+The business generated **Rp12.82 Billion** in revenue from **6,898 transactions**, with an average transaction value of approximately **Rp1.86 Million**, indicating a healthy sales performance throughout the year.
 
 ---
 
 ## 📦 Product Performance
 
-The **1 BULAN 5-UP** program became the primary revenue driver, contributing **15.78%** of total revenue.
+The **1 BULAN 5-UP** program became the primary revenue driver, contributing approximately **15.78%** of total annual revenue.
+
+Programs with a **1-month duration** generated approximately **41%** of total revenue, indicating strong customer preference for shorter learning programs.
 
 ---
 
 ## 📢 Marketing Performance
 
-Instagram and Alumni generated more than **73%** of total revenue, highlighting the effectiveness of digital marketing and referral programs.
+Instagram and Alumni contributed more than **73%** of total revenue, highlighting the effectiveness of digital marketing campaigns and referral-based customer acquisition.
 
 ---
 
 ## 💳 Payment Method Analysis
 
-Internet Banking accounted for approximately **81%** of all transactions, indicating strong customer preference for digital payment methods.
+Internet Banking accounted for approximately **81%** of all transactions, indicating that customers strongly prefer digital payment methods.
 
 ---
 
 ## 📅 Time-Based Sales Analysis
 
-Sales peaked during **Quarter II**, especially in **June** and **July**, indicating seasonal demand.
+Sales reached their highest levels during **Quarter II**, especially in **June** and **July**, suggesting strong seasonal demand during this period.
 
 ---
 
 # 💡 Business Recommendations
 
-- Increase investment in Instagram advertising campaigns.
-- Expand the Alumni referral program.
-- Prepare operational resources before Quarter II.
-- Reevaluate Non-Camp programs through pricing and promotional strategies.
-- Continue improving digital payment options to enhance customer convenience.
+| Priority | Recommendation |
+|----------|----------------|
+| 🔴 High | Increase investment in Instagram advertising campaigns to maximize customer acquisition. |
+| 🔴 High | Expand the Alumni referral program by introducing referral incentives. |
+| 🔴 High | Prepare operational resources before Quarter II to handle seasonal demand. |
+| 🟡 Medium | Reevaluate Non-Camp programs by reviewing pricing strategies, promotional activities, and market demand. |
+| 🟡 Medium | Continue improving digital payment options to enhance customer convenience and transaction efficiency. |
+
+---
+
+# 🎯 Project Outcomes
+
+This project successfully demonstrates an **end-to-end data analytics workflow** using Microsoft Excel.
+
+The analysis transformed raw transactional data into meaningful business insights through structured data preparation, exploratory analysis, dashboard development, and strategic recommendations.
+
+The project demonstrates competencies in:
+
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis (EDA)
+- KPI Analysis
+- Interactive Dashboard Development
+- Business Analysis
+- Data Visualization
+- Business Insight Generation
+- Business Recommendation
+- Data Storytelling
 
 ---
 
@@ -245,35 +320,39 @@ English-Course-Sales-Marketing-Analysis
 ├── README.md
 ├── LICENSE
 │
-│
-├── images
-│   ├── dashboard-overview.png
-│   │   └── dashboard-overview.png
-│   └── eda-overview-png
-│
-├── dashboard
+├── main_dashboard
 │   └── English Course Sales & Marketing Analysis 2025.xlsx
 │
 ├── dataset
 │   ├── raw_dataset.xlsx
 │   └── cleaned_dataset.xlsx
 │
-└── report
-    └── English Course Sales & Marketing Analysis 2025.pdf
+├── report
+│   └── English Course Sales & Marketing Analysis 2025.pdf
+│
+└── images
+    ├── dashboard-overview.png
+    ├── sales-performance.png
+    ├── product-performance.png
+    ├── marketing-performance.png
+    └── payment-analysis.png
 ```
 
 ---
 
 # 🚀 Possible Future Improvements
 
-Potential enhancements for future versions of this project include:
+Future enhancements for this project may include:
 
 - Developing an interactive dashboard using **Power BI**.
+- Building SQL-based automated reporting workflows.
 - Performing customer segmentation analysis.
-- Building revenue forecasting models.
-- Creating KPI monitoring dashboards.
-- Implementing SQL-based data processing workflows.
-- others....
+- Developing predictive sales forecasting models.
+- Creating executive KPI monitoring dashboards.
+- Integrating customer retention and cohort analysis.
+- Conducting profitability analysis by program category.
+- Building interactive web dashboards using Tableau or Google Looker Studio.
+
 ---
 
 # 👤 About the Author
@@ -282,9 +361,25 @@ Potential enhancements for future versions of this project include:
 
 **Junior Data Analyst**
 
-Passionate about Data Analytics, Business Intelligence, Data Visualization, and Business Strategy. I enjoy transforming raw data into meaningful insights that support better business decision-making.
+I am an aspiring Data Analyst with a strong interest in **Data Analytics, Business Intelligence, Data Visualization, and Business Strategy**.
+
+I enjoy transforming raw data into meaningful insights through structured analysis, interactive dashboards, and data storytelling to support better business decision-making.
+
+### Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Dashboard Development
+- Data Visualization
+- Business Analysis
+- KPI Analysis
+- Data Storytelling
 
 ### Connect with Me
 
-- GitHub: **https://github.com/hoseasmeliala**
-- LinkedIn: **https://linkedin.com/in/hoseasmeliala**
+- GitHub: https://github.com/hoseasmeliala
+- LinkedIn: https://linkedin.com/in/hoseasmeliala
+
+---
+
+⭐ If you found this project helpful or interesting, feel free to give this repository a **Star** and connect with me on GitHub!
